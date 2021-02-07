@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CVPR 2021 TUTORIALS
-subtitle: Normalization Techniques in Deep Learning: Methods, Analyses, and Applications
+subtitle: Normalization Techniques in Deep Learning Methods, Analyses, and Applications
 ---
 
 ## **Course description**
