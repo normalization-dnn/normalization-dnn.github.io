@@ -9,12 +9,12 @@
 title: Normalization Techniques in Deep Learning
 
 # Your name to show in the footer
-author: Some Person
+author: Lei Huang
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about"
+  About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
