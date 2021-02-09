@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CVPR 2021 TUTORIALS
-subtitle: Normalization Techniques in Deep Learning Methods, Analyses, and Applications
+subtitle: Normalization Techniques in Deep Learning: Methods, Analyses, and Applications
 ---
 
 
@@ -10,15 +10,7 @@ subtitle: Normalization Techniques in Deep Learning Methods, Analyses, and Appli
 
 ## **Organizer and Presenter**
 
-```css
-<div style="align: center">
-```
 
-```text
-<div align=center>
-<img src=".\img\LeiHuang.jpg" style="zoom: 25%;" />
-</div>
-```
 
 <img src=".\img\LeiHuang.jpg" style="zoom: 25%;" />
  	[Lei Huang](https://huangleibuaa.github.io/)																			
@@ -97,4 +89,4 @@ d.  **Normalization for efficient deep models**. We show how to exploit normaliz
 
 ## Presenter's Bio
 
-Lei Huang received his BSc and PhD degrees, respectively in 2010 and 2018, at the School of Computer Science and Engineering, Beihang University, China. From 2015 to 2016, he visited the Vision and Learning Lab, University of Michigan, Ann Arbor. He was a research scientist in Inception Institute of Artifical Intelligence (IIAI), UAE. His current research mainly focuses on normalization techniques (involving methods, theories and applications) in training DNNs. He also has wide interests in deep learning theory (representation & optimization) and computers vision tasks. He serves as a reviewer for the top conferences and journals such as CVPR, ICCV, ECCV, NIPS, AAAI, IJCAI, JMLR, IJCV, TNNLS, etc.
+Lei Huang is currently an associate professor at [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), Institute of Artifical Intelligence, Beihang University, China. He received his BSc and PhD degrees, respectively in 2010 and 2018, at the School of Computer Science and Engineering, Beihang University, China. From 2015 to 2016, he visited the Vision and Learning Lab, University of Michigan, Ann Arbor. He was a research scientist in Inception Institute of Artifical Intelligence (IIAI), UAE. His current research mainly focuses on normalization techniques (involving methods, theories and applications) in training DNNs. He also has wide interests in deep learning theory (representation & optimization) and computers vision tasks. He serves as a reviewer for the top conferences and journals such as CVPR, ICCV, ECCV, NIPS, AAAI, IJCAI, JMLR, IJCV, TNNLS, etc.
