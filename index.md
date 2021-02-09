@@ -14,7 +14,11 @@ subtitle: Normalization Techniques in Deep Learning Methods, Analyses, and Appli
 <div style="align: center">
 ```
 
-
+```text
+<div align=center>
+<img src=".\img\LeiHuang.jpg" style="zoom: 25%;" />
+</div>
+```
 
 <img src=".\img\LeiHuang.jpg" style="zoom: 25%;" />
  	[Lei Huang](https://huangleibuaa.github.io/)																			
