@@ -10,9 +10,16 @@ subtitle: Normalization Techniques in Deep Learning Methods, Analyses, and Appli
 
 ## **Organizer and Presenter**
 
-<img src="./img/LeiHuang.jpg" style="zoom: 25%;" />
+```css
+<div style="align: center">
+<img src=".\img\LeiHuang.jpg" style="zoom: 25%;" />
+ 	[Lei Huang](https://huangleibuaa.github.io/)
+</div>
+```
 
-​																			 	[Lei Huang](https://huangleibuaa.github.io/)
+
+
+​																			
 
 ​									
 
